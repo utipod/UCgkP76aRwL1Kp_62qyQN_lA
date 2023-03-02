@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://www.google.com/schemas/play-podcasts/1.0/play-podcasts.xsd" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+  <channel>
+    <title>Market Rebellion</title>
+    <link>https://www.youtube.com/channel/UCgkP76aRwL1Kp_62qyQN_lA</link>
+    <description>Daily options trading insights from Jon and Pete Najarian and the team at Market Rebellion. We share our take on the day’s stock market as viewed through unusual options activity and technical analysis.</description>
+    <generator>utipod</generator>
+    <image>
+      <url>https://yt3.googleusercontent.com/ytc/AL5GRJWdOGDjCw5PoZsIQ_Pz08GFJhyfSm1H44kYD_dq=s0</url>
+      <title>Market Rebellion</title>
+      <link>https://www.youtube.com/channel/UCgkP76aRwL1Kp_62qyQN_lA</link>
+    </image>
+    <item>
+      <description><![CDATA[]]></description>
+      <category><![CDATA[Education]]></category>
+      <title><![CDATA[⏱️60 Seconds on way to Madrid 🇪🇸 (sorta) $DLTR $SI $CRM Rebel's Edge today 1pm]]></title>
+      <guid>oVXCiAPaDZE</guid>
+      <pubDate>Thu, 02 Mar 2023 00:00:00 -0000</pubDate>
+      <source>https://www.youtube.com/channel/UCgkP76aRwL1Kp_62qyQN_lA</source>
+      <author>Market Rebellion</author>
+      <link>https://www.youtube.com/watch?v=oVXCiAPaDZE</link>
+      <enclosure url="http://174.93.173.101:8080/UCgkP76aRwL1Kp_62qyQN_lA/oVXCiAPaDZE.mkv" length="8155651" type="video/x-matroska"/>
+      <itunes:image href="https://i.ytimg.com/vi/oVXCiAPaDZE/hq2.jpg"/>
+    </item>
+  </channel>
+</rss>
